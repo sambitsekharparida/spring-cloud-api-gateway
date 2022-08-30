@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.iiht.fse2.EStockMarketApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.683 s - in com.iiht.fse2.EStockMarketApplicationTests
